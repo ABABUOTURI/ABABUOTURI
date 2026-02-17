@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ababu Emmanuel Oturi</h1>
-<h3 align="center">Am a Frontend developer based in Nakuru,Kenya. Am well experienced with Frontend Technologies and API integration.</h3>
+<h3 align="center">Am a Software Dveloper based in Nakuru,Kenya. Am well experienced with Software Developmet Technologies and API integration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ababuoturi&label=Profile%20views&color=0e75b6&style=flat" alt="ababuoturi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ababuoturi" alt="ababuoturi" /></a> </p>
 
-- 🔭 I’m currently working on **RETChain**
+- 🔭 I’m currently working  part-time as STEM Instructor at **Pixel Academy**
+  
+- 🔭 I’m currently working as a Remote Software Developer at **Harley Systems**
 
-- 🌱 I’m currently learning **DataScience,Node.js, Blockchain**
+- 🌱 I’m currently learning **CyberSecurity**
 
-- 👯 I’m looking to collaborate on [Expense Tracker](https://github.com/ABABUOTURI/MobileExpenseTracker.git)
-
-- 🤝 I’m working on [Medicine Dispense System](https://github.com/ABABUOTURI/Medicine_Dispense_System.git)
-
-- 💬 Ask me about **React, Flutter,Javascript,Kotlin**
+- 💬 Ask me about **React.js, Flutter,Javascript,Kotlin,Next.js,TailwindCss,Supabase,MongoDB,SQL**
 
 - 📫 How to reach me **ababuoturi@gmail.com**
 
