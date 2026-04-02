@@ -11,14 +11,15 @@
 <li>Mobile: Flutter</li>
 <li>Databases: MongoDB, Firebase, Supabase</li>
 
+## Featured Projects
+<li>Church Record Management System</li>
+<li>KEMRI Data Platform Tool</li>
+<li>Logistics & Fleet Management Platform</li>
 
-- 🔭 I’m currently working  part-time as STEM Instructor at **Pixel Academy**
-  
-- 🔭 I’m currently working as a Remote Software Developer at **Harley Systems**
-
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 💬 Ask me about **React.js, Flutter,Javascript,Kotlin,Next.js,TailwindCss,Supabase,MongoDB,SQL**
+## Currently
+<li>Building production-ready applications</li>
+<li>Open to remote full-stack opportunities</li>
+<li>Open to onsite full-stack opportunities</li>
 
 - 📫 How to reach me **ababuoturi@gmail.com**
 
