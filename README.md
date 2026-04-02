@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ababu Emmanuel Oturi</h1>
-<h3 align="center">Am a Software Dveloper based in Nakuru,Kenya. Am well experienced with Software Developmet Technologies and API integration.</h3>
+<h3 align="center">Full-Stack Developer passionate about building scalable digital products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ababuoturi&label=Profile%20views&color=0e75b6&style=flat" alt="ababuoturi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ababuoturi" alt="ababuoturi" /></a> </p>
+
+## Tech Stack
+<li>Frontend: React, Next.js, TypeScript, TailwindCSS</li>
+<li>Backend: Node.js, REST APIs</li>
+<li>Mobile: Flutter</li>
+<li>Databases: MongoDB, Firebase, Supabase</li>
+
 
 - 🔭 I’m currently working  part-time as STEM Instructor at **Pixel Academy**
   
